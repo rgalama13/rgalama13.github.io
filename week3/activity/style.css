@@ -1,0 +1,97 @@
+.mi{
+    color: white;
+    text-align: end;
+    font-family: Arial;
+}
+
+p{
+    color: white;
+    font-family: Arial;
+}
+.tab{
+    color: red;
+    font-weight: bold;
+    font-family: Arial;
+}
+.lab{
+    color: magenta;
+    font-weight: bold;
+    font-family: Arial;
+}
+.myspan{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Arial;
+}
+.hi{
+    color: red;
+    text-align: center;
+    font-family: Arial;
+}
+body{
+    background-color:#16365d;
+}
+.mispan{
+    color: yellow;
+    font-family: Arial;
+}
+.mospan{
+    color: darkblue;
+    font-weight: bold;
+    font-family: Arial;
+}
+.mnspan{
+    color: green;
+    font-weight: bold;
+    font-family: Arial;
+}
+.bam{
+    background-color: black;
+    color: white;
+    width: 30%;
+    padding: 10px;
+    border-top: 5px solid red;
+    border-left: 5px solid red;
+    font-family: Arial;
+}
+.okispan{
+    color: purple;
+    font-weight: bold;
+    font-family: Arial;
+}
+.hello{
+    color: black;
+    font-weight: bold;
+    background-color: green;
+    width: 100%;
+    padding: 1px;
+    font-family: Arial;
+}
+.bamix{
+    color: green;
+    font-family: Arial;
+}
+.hii{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 40px;
+    font-family: Arial;
+    border-left: 5px solid magenta;
+    border-right: 5px solid white;
+}
+.bamby{
+    border-bottom: 2px solid yellow;
+    width: 50%;
+    text-align: center;
+    color: yellow;
+    font-family: Arial;
+}
+.basiao{
+    background-color: red;
+    color: white;
+    width: 100%;
+    padding: 10px;
+    font-family: Arial;
+}
