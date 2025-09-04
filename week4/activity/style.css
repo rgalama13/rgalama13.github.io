@@ -1,0 +1,58 @@
+.wrapper1{
+    display: flex;
+}
+.A{
+    height: 200px;
+    width: 150px;
+    background-color: white;
+    border-right: 20px solid black;
+    border-bottom: 40px solid black;
+}
+.B{
+    height: 200px;
+    width: 150px;
+    background-color: white;
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;
+}
+.wrapper3{
+    display: flex;
+}
+.C{
+    height: 440px;
+    width: 500px;
+    background-color: red;
+    border-bottom: 20px solid black;
+}
+.wrapper4{
+    display: flex;
+}
+.D{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(38, 80, 158);
+    border-right: 20px solid black;
+}
+.E{
+    height: 200px;
+    width: 400px;
+    background-color: white;
+    border-right: 20px solid black;
+}
+.F{
+    height: 90px;
+    width: 80px;
+    background-color: white;
+    border-bottom: 20px solid black;
+}
+.G{
+    height: 90px;
+    width: 80px;
+    background-color: rgb(252, 248, 4);
+}
+.wrapper{
+    display: flex;
+}
+.wrapper4{
+    display: flex;
+}
