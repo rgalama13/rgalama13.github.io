@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial;
+}
+
+.me{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #212529;
+  padding: 12px 50px;
+  color: #e2e3e5;
+}
+
+.logo{
+  font-size: 18px;
+  font-weight: bold;
+}
+.links{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+
+.links :hover{
+  background: #198753;
+  padding: 3px;
+  border-radius: 5px;
+  color: #e2e3e5;
+}
+
+.muah{
+  display: flex;
+  height: 1000px;
+}
+
+.okii{
+  flex: 2;
+  position: relative;
+}
+
+.okii img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.helloooo{
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: #e2e3e5;
+  background: #212529;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+.renz{
+  flex: 1;
+  background: #e2e3e5;
+  padding: 30px;
+}
+
+.h2{
+  margin-bottom: 20px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+form label{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.terms{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 15px;
+}
+.create{
+    height: 50px;
+    width: 110px;
+    background-color: #198753;
+    padding: 5px;
+    border-radius: 10px;
+    color: #e2e3e5;
+}
